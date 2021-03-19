@@ -7,4 +7,5 @@ https://shahzaibfardeen.github.io/PhoneBook/
 
 
 ## Screenshot :
- <img src="Phonebook"/>
+
+ ![PhoneBook_Image](Phonebook.png)
