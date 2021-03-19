@@ -8,4 +8,4 @@ https://shahzaibfardeen.github.io/PhoneBook/
 
 ## Screenshot :
 
- ![PhoneBook_Image](Phonebook.png)
+ ![PhoneBook_Image](Phonebook.PNG)
